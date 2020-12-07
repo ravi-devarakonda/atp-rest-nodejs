@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "http-signature": "^1.0",
-    "jssha": "^2.0"
+    "jssha": "^3.2"
   },
   "repository": {
     "type": "git",
